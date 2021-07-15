@@ -1,6 +1,6 @@
 # Booking for Vaccination
 
-Just simple, yet undone app.
+Just simple, yet amazing app.
 
 ## Getting Started
 
