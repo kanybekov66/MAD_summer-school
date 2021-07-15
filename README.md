@@ -16,7 +16,7 @@ Mobile App collects required data from user:
  Then, when data is collected and confirmed, user will get SMS-confirmation.
  
  Here user must input required data:
- ![Image of App #1]
+ ![Alt text]
  (https://github.com/kanybekov66/MAD_summer-school/blob/master/Снимок%20экрана%202021-07-15%20в%2011.44.17.png)
  
  After user submitted required data:
