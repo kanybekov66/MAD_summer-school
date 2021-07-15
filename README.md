@@ -1,6 +1,6 @@
-# untitled
+# Booking for Vaccination
 
-A new Flutter project.
+Just simple, yet undone app.
 
 ## Getting Started
 
